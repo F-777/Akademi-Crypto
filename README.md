@@ -1,5 +1,5 @@
 # Akademi-Crypto
 
 # Founders
-> Timothy Ronald
-> Kalimasada
+> Timothy Ronald <br>
+> Kalimasada <br>
